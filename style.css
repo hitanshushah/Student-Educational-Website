@@ -1,0 +1,1140 @@
+body {
+
+    background: url("back.jpg");
+    margin:0;
+
+}
+
+
+.link-title {
+    
+    text-decoration: wavy;
+    font-size: 40px;
+    color: #3b7687;
+    text-align: right;
+    align-content: right;   
+
+
+}
+
+.container {
+    
+    
+    margin: 0 auto;
+    background: url("back.jpg");
+
+}
+
+.header{
+    
+    padding: 45px 0 20px 40px;
+}
+
+.Home {
+    
+    background: #3b7687;
+    padding: 6px 0 6px 40px;
+}
+
+.Home a {
+    
+    color: aqua;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: fantasy;
+    
+}
+
+.Home a:hover {
+    
+    color: beige
+}
+
+aside {
+    text-align: left;    
+    float: left;
+    width: 120px;
+    padding: 30px 0 0 40px;
+    margin: 20px o 5px 0;
+    border-color: aqua;
+    color: #3b7687;
+}
+
+#home-image img{
+    
+    align-content: left;
+    width: 40%;
+    float: center;
+
+}
+
+/*Login Page*/
+.link-title {
+    
+    text-decoration: wavy;
+    font-size: 40px;
+    color: #3b7687;
+    text-align: right;
+    align-content: right;   
+
+
+}
+
+.container {
+    
+    
+    margin: 0 auto;
+    background: lightcyan;
+
+}
+#Login {
+
+	text-decoration: dotted;
+	font-size: 20px;
+	border-color: black;
+	color: #3b7687;
+	width: 2000px;
+    padding: 10px 10px 10px 10px;
+    margin: 0 auto;
+    padding: 45px 0 20px 40px;
+    border-radius: 5px;
+
+
+}
+
+
+.Login {
+    
+    background: #3b7687;
+    padding: 6px 0 6px 40px;
+}
+
+.Login a {
+    
+    color: aqua;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: fantasy;
+    
+}
+
+.Login a:hover {
+    
+    color: beige
+}
+/*Study Materia;s*/
+
+.link-title {
+    
+    text-decoration: wavy;
+    font-size: 40px;
+    color: #3b7687;
+    text-align: right;
+    align-content: right;   
+
+
+}
+
+.container {
+    
+    
+    margin: 0 auto;
+    background: lightcyan;
+
+}
+
+#recbook {
+
+    text-decoration: dotted;
+    font-size: 20px;
+    border-color: black;
+    color: #3b7687;
+    width: 2000px;
+    padding: 10px 10px 10px 10px;
+    margin: 0 auto;
+    padding: 45px 0 20px 40px;
+    border-radius: 5px;
+
+
+}
+
+
+.recbook {
+    
+    background: #3b7687;
+    padding: 6px 0 6px 40px;
+}
+
+.recbook a {
+    
+    color: aqua;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: fantasy;
+    
+}
+
+.recbook a:hover {
+    
+    color: beige
+}
+
+/*Live Lecture*/
+
+.link-title {
+    
+    text-decoration: wavy;
+    font-size: 40px;
+    color: #3b7687;
+    text-align: right;
+    align-content: right;   
+
+
+}
+
+.container {
+    
+    
+    margin: 0 auto;
+    background: lightcyan;
+
+}
+
+#livelecture {
+
+    text-decoration: dotted;
+    font-size: 20px;
+    border-color: black;
+    color: #3b7687;
+    width: 2000px;
+    padding: 10px 10px 10px 10px;
+    margin: 0 auto;
+    padding: 45px 0 20px 40px;
+    border-radius: 5px;
+
+
+}
+
+
+.livelecture {
+    
+    background: #3b7687;
+    padding: 6px 0 6px 40px;
+}
+
+.livelecture a {
+    
+    color: aqua;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: fantasy;
+    
+}
+
+.livelecture a:hover {
+    
+    color: beige
+}
+
+/*SignUp*/
+
+.link-title {
+    
+    text-decoration: wavy;
+    font-size: 40px;
+    color: #3b7687;
+    text-align: right;
+    align-content: right;   
+
+
+}
+
+.container {
+    
+    
+    margin: 0 auto;
+    background: lightcyan;
+
+}
+
+#SignUp {
+
+    text-decoration: dotted;
+    font-size: 20px;
+    border-color: black;
+    color: #3b7687;
+    width: 2000px;
+    padding: 10px 10px 10px 10px;
+    margin: 0 auto;
+    padding: 45px 0 20px 40px;
+    border-radius: 5px;
+
+
+}
+
+
+.SignUp {
+    
+    background: #3b7687;
+    padding: 6px 0 6px 40px;
+}
+
+.SignUp a {
+    
+    color: aqua;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: fantasy;
+    
+}
+
+.SignUp a:hover {
+    
+    color: beige
+}
+
+/*About*/
+
+.link-title {
+    
+    text-decoration: wavy;
+    font-size: 40px;
+    color: #3b7687;
+    text-align: right;
+    align-content: right;   
+
+
+}
+
+.container {
+    
+    
+    margin: 0 auto;
+    background: lightcyan;
+
+}
+
+#about {
+
+    text-decoration: dotted;
+    font-size: 20px;
+    border-color: black;
+    color: #3b7687;
+    width: 2000px;
+    padding: 10px 10px 10px 10px;
+    margin: 0 auto;
+    padding: 45px 0 20px 40px;
+    border-radius: 5px;
+
+
+}
+
+
+.about {
+    
+    background: #3b7687;
+    padding: 6px 0 6px 40px;
+}
+
+.about a {
+    
+    color: aqua;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: fantasy;
+    
+}
+
+.about a:hover {
+    
+    color: beige
+}
+
+/*Online Courses*/
+.link-title {
+    
+    text-decoration: wavy;
+    font-size: 40px;
+    color: #3b7687;
+    text-align: right;
+    align-content: right;   
+
+
+}
+
+.container {
+    
+    
+    margin: 0 auto;
+    background: lightcyan;
+
+}
+
+#onlinecourses
+{
+
+    text-decoration: dotted;
+    font-size: 20px;
+    border-color: black;
+    color: #3b7687;
+    width: 2000px;
+    padding: 10px 10px 10px 10px;
+    margin: 0 auto;
+    padding: 45px 0 20px 40px;
+    border-radius: 5px;
+
+
+}
+
+
+
+
+
+.onlinecourses {
+    
+    background: #3b7687;
+    padding: 6px 0 6px 40px;
+}
+
+.onlinecourses a {
+    
+    color: aqua;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: fantasy;
+    
+}
+
+.onlinecourses a:hover {
+    
+    color: beige
+}
+
+/*user*/
+.link-title {
+    
+    text-decoration: wavy;
+    font-size: 40px;
+    color: #3b7687;
+    text-align: right;
+    align-content: right;   
+
+
+}
+
+.container {
+    
+    
+    margin: 0 auto;
+    background: lightcyan;
+
+}
+
+#user
+{
+
+    text-decoration: dotted;
+    font-size: 20px;
+    border-color: black;
+    color: #3b7687;
+    width: 2000px;
+    padding: 10px 10px 10px 10px;
+    margin: 0 auto;
+    padding: 45px 0 20px 40px;
+    border-radius: 5px;
+
+
+}
+
+
+
+
+
+.user {
+    
+    background: #3b7687;
+    padding: 6px 0 6px 40px;
+}
+
+.user a {
+    
+    color: aqua;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: fantasy;
+    
+}
+
+.user a:hover {
+    
+    color: beige
+}
+
+/*besub*/
+.link-title {
+    
+    text-decoration: wavy;
+    font-size: 40px;
+    color: #3b7687;
+    text-align: right;
+    align-content: right;   
+
+
+}
+
+.container {
+    
+    
+    margin: 0 auto;
+    background: lightcyan;
+
+}
+
+#besub
+{
+
+    text-decoration: dotted;
+    font-size: 20px;
+    border-color: black;
+    color: #3b7687;
+    width: 2000px;
+    padding: 10px 10px 10px 10px;
+    margin: 0 auto;
+    padding: 45px 0 20px 40px;
+    border-radius: 5px;
+
+
+}
+
+
+
+
+
+.besub {
+    
+    background: #3b7687;
+    padding: 6px 0 6px 40px;
+}
+
+.besub a {
+    
+    color: aqua;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: fantasy;
+    
+}
+
+.besub a:hover {
+    
+    color: beige
+}
+
+/*Online Courses*/
+.link-title {
+    
+    text-decoration: wavy;
+    font-size: 40px;
+    color: #3b7687;
+    text-align: right;
+    align-content: right;   
+
+
+}
+
+.container {
+    
+    
+    margin: 0 auto;
+    background: lightcyan;
+
+}
+
+#branch
+{
+
+    text-decoration: dotted;
+    font-size: 20px;
+    border-color: black;
+    color: #3b7687;
+    width: 2000px;
+    padding: 10px 10px 10px 10px;
+    margin: 0 auto;
+    padding: 45px 0 20px 40px;
+    border-radius: 5px;
+
+
+}
+
+
+
+
+
+.branch {
+    
+    background: #3b7687;
+    padding: 6px 0 6px 40px;
+}
+
+.branch a {
+    
+    color: aqua;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: fantasy;
+    
+}
+
+.branch a:hover {
+    
+    color: beige
+}
+
+/*Online Courses*/
+.link-title {
+    
+    text-decoration: wavy;
+    font-size: 40px;
+    color: #3b7687;
+    text-align: right;
+    align-content: right;   
+
+
+}
+
+.container {
+    
+    
+    margin: 0 auto;
+    background: lightcyan;
+
+}
+
+#fe
+{
+
+    text-decoration: dotted;
+    font-size: 20px;
+    border-color: black;
+    color: #3b7687;
+    width: 2000px;
+    padding: 10px 10px 10px 10px;
+    margin: 0 auto;
+    padding: 45px 0 20px 40px;
+    border-radius: 5px;
+
+
+}
+
+
+
+
+
+.fe {
+    
+    background: #3b7687;
+    padding: 6px 0 6px 40px;
+}
+
+.fe a {
+    
+    color: aqua;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: fantasy;
+    
+}
+
+.fe a:hover {
+    
+    color: beige
+}
+
+/*Online Courses*/
+.link-title {
+    
+    text-decoration: wavy;
+    font-size: 40px;
+    color: #3b7687;
+    text-align: right;
+    align-content: right;   
+
+
+}
+
+.container {
+    
+    
+    margin: 0 auto;
+    background: lightcyan;
+
+}
+
+#itsem3
+{
+
+    text-decoration: dotted;
+    font-size: 20px;
+    border-color: black;
+    color: #3b7687;
+    width: 2000px;
+    padding: 10px 10px 10px 10px;
+    margin: 0 auto;
+    padding: 45px 0 20px 40px;
+    border-radius: 5px;
+
+
+}
+
+
+
+
+
+.itsem3 {
+    
+    background: #3b7687;
+    padding: 6px 0 6px 40px;
+}
+
+.itsem3 a {
+    
+    color: aqua;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: fantasy;
+    
+}
+
+.itsem3 a:hover {
+    
+    color: beige
+}
+
+/*Online Courses*/
+.link-title {
+    
+    text-decoration: wavy;
+    font-size: 40px;
+    color: #3b7687;
+    text-align: right;
+    align-content: right;   
+
+
+}
+
+.container {
+    
+    
+    margin: 0 auto;
+    background: lightcyan;
+
+}
+
+#itsem4
+{
+
+    text-decoration: dotted;
+    font-size: 20px;
+    border-color: black;
+    color: #3b7687;
+    width: 2000px;
+    padding: 10px 10px 10px 10px;
+    margin: 0 auto;
+    padding: 45px 0 20px 40px;
+    border-radius: 5px;
+
+
+}
+
+
+
+
+
+.itsem4 {
+    
+    background: #3b7687;
+    padding: 6px 0 6px 40px;
+}
+
+.itsem4 a {
+    
+    color: aqua;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: fantasy;
+    
+}
+
+.itsem4 a:hover {
+    
+    color: beige
+}
+
+
+/*Online Courses*/
+.link-title {
+    
+    text-decoration: wavy;
+    font-size: 40px;
+    color: #3b7687;
+    text-align: right;
+    align-content: right;   
+
+
+}
+
+.container {
+    
+    
+    margin: 0 auto;
+    background: lightcyan;
+
+}
+
+#selectyear
+{
+
+    text-decoration: dotted;
+    font-size: 20px;
+    border-color: black;
+    color: #3b7687;
+    width: 2000px;
+    padding: 10px 10px 10px 10px;
+    margin: 0 auto;
+    padding: 45px 0 20px 40px;
+    border-radius: 5px;
+
+
+}
+
+
+
+
+
+.selectyear {
+    
+    background: #3b7687;
+    padding: 6px 0 6px 40px;
+}
+
+.selectyear a {
+    
+    color: aqua;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: fantasy;
+    
+}
+
+.selectyear a:hover {
+    
+    color: beige
+}
+
+
+/*Online Courses*/
+.link-title {
+    
+    text-decoration: wavy;
+    font-size: 40px;
+    color: #3b7687;
+    text-align: right;
+    align-content: right;   
+
+
+}
+
+.container {
+    
+    
+    margin: 0 auto;
+    background: lightcyan;
+
+}
+
+#sem1
+{
+
+    text-decoration: dotted;
+    font-size: 20px;
+    border-color: black;
+    color: #3b7687;
+    width: 2000px;
+    padding: 10px 10px 10px 10px;
+    margin: 0 auto;
+    padding: 45px 0 20px 40px;
+    border-radius: 5px;
+
+
+}
+
+
+
+
+
+.sem1 {
+    
+    background: #3b7687;
+    padding: 6px 0 6px 40px;
+}
+
+.sem1 a {
+    
+    color: aqua;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: fantasy;
+    
+}
+
+.sem1 a:hover {
+    
+    color: beige
+}
+
+/*Online Courses*/
+.link-title {
+    
+    text-decoration: wavy;
+    font-size: 40px;
+    color: #3b7687;
+    text-align: right;
+    align-content: right;   
+
+
+}
+
+.container {
+    
+    
+    margin: 0 auto;
+    background: lightcyan;
+
+}
+
+#sem2
+{
+
+    text-decoration: dotted;
+    font-size: 20px;
+    border-color: black;
+    color: #3b7687;
+    width: 2000px;
+    padding: 10px 10px 10px 10px;
+    margin: 0 auto;
+    padding: 45px 0 20px 40px;
+    border-radius: 5px;
+
+
+}
+
+
+
+
+
+.sem2 {
+    
+    background: #3b7687;
+    padding: 6px 0 6px 40px;
+}
+
+.sem2 a {
+    
+    color: aqua;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: fantasy;
+    
+}
+
+.sem2 a:hover {
+    
+    color: beige
+}
+
+/*Online Courses*/
+.link-title {
+    
+    text-decoration: wavy;
+    font-size: 40px;
+    color: #3b7687;
+    text-align: right;
+    align-content: right;   
+
+
+}
+
+.container {
+    
+    
+    margin: 0 auto;
+    background: lightcyan;
+
+}
+
+#sesub
+{
+
+    text-decoration: dotted;
+    font-size: 20px;
+    border-color: black;
+    color: #3b7687;
+    width: 2000px;
+    padding: 10px 10px 10px 10px;
+    margin: 0 auto;
+    padding: 45px 0 20px 40px;
+    border-radius: 5px;
+
+
+}
+
+
+
+
+
+.sesub {
+    
+    background: #3b7687;
+    padding: 6px 0 6px 40px;
+}
+
+.sesub a {
+    
+    color: aqua;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: fantasy;
+    
+}
+
+.sesub a:hover {
+    
+    color: beige
+}
+
+/*Online Courses*/
+.link-title {
+    
+    text-decoration: wavy;
+    font-size: 40px;
+    color: #3b7687;
+    text-align: right;
+    align-content: right;   
+
+
+}
+
+.container {
+    
+    
+    margin: 0 auto;
+    background: lightcyan;
+
+}
+
+#tesub
+{
+
+    text-decoration: dotted;
+    font-size: 20px;
+    border-color: black;
+    color: #3b7687;
+    width: 2000px;
+    padding: 10px 10px 10px 10px;
+    margin: 0 auto;
+    padding: 45px 0 20px 40px;
+    border-radius: 5px;
+
+
+}
+
+
+
+
+
+.tesub {
+    
+    background: #3b7687;
+    padding: 6px 0 6px 40px;
+}
+
+.tesub a {
+    
+    color: aqua;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: fantasy;
+    
+}
+
+.tesub a:hover {
+    
+    color: beige
+}
+
+/*Online Courses*/
+.link-title {
+    
+    text-decoration: wavy;
+    font-size: 40px;
+    color: #3b7687;
+    text-align: right;
+    align-content: right;   
+
+
+}
+
+.container {
+    
+    
+    margin: 0 auto;
+    background: lightcyan;
+
+}
+
+#video
+{
+
+    text-decoration: dotted;
+    font-size: 20px;
+    border-color: black;
+    color: #3b7687;
+    width: 2000px;
+    padding: 10px 10px 10px 10px;
+    margin: 0 auto;
+    padding: 45px 0 20px 40px;
+    border-radius: 5px;
+
+
+}
+
+
+
+
+
+.video {
+    
+    background: #3b7687;
+    padding: 6px 0 6px 40px;
+}
+
+.video a {
+    
+    color: aqua;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: fantasy;
+    
+}
+
+.video a:hover {
+    
+    color: beige
+}
+
+
+
+
+
+
+
